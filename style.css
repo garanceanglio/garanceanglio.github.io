@@ -5,6 +5,7 @@ body{
     font-size: 68pt;
     min-height: 99vh;
     cursor: url(images/cursor/cursor-pink.png), auto;
+    max-width: 100%;
 }
 
 img{
