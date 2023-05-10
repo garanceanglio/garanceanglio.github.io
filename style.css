@@ -81,7 +81,7 @@ img{
         margin-right: auto;
         margin-top: 0;
         display: inline-block;
-        /* align-items: start; */
+        /* align-items: start;
         gap: 0 2px;
         background-color: #fff;
         cursor:url(images/cursor/cursor-pink.png),pointer;
@@ -96,19 +96,18 @@ img{
         border-left: 4px solid #fff;
         box-shadow: 0px 2px solid #000;
         max-width: 99%; */
-    }
-    .vignettes-home a{
+    
+    /* .vignettes-home a{
         background-color: #fff;
         font-family: "new-reason", sans-serif;
         font-weight: 400;
         font-style: normal;
         font-size: 18px;
         color: currentColor;
-        text-decoration: none;
+        text-decoration: none; */
         /* margin-bottom: 10px solid #fff; */
         /* padding: 12px; */
-    }
-} */
+    /* } */
 
 
 .vignettes-home img{
